@@ -1,7 +1,6 @@
 # OpenCV Face Recognition
 This OpenCV application can detect and recognize your face, in real-time (using a webcam).
 
-![demo image](face-recognition_demo.png)
 
 To run it yourself, follow these steps:
 1. Change the `sub_dataset` variable (in the `create_data.py` file) to the name of the person whose face you're going to store.
